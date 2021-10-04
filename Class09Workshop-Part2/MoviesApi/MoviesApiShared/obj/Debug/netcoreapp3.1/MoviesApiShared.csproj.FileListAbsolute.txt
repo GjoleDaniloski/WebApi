@@ -1,0 +1,9 @@
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\bin\Debug\netcoreapp3.1\MoviesApiShared.deps.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\bin\Debug\netcoreapp3.1\MoviesApiShared.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\bin\Debug\netcoreapp3.1\MoviesApiShared.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.csprojAssemblyReference.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.AssemblyInfoInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.AssemblyInfo.cs
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.csproj.CoreCompileInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApiShared\obj\Debug\netcoreapp3.1\MoviesApiShared.pdb

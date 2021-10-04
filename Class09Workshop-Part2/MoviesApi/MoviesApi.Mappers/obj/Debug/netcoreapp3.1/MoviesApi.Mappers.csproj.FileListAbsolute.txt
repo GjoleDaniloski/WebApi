@@ -1,0 +1,14 @@
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Mappers.deps.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Mappers.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Mappers.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Domain.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Models.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Domain.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\bin\Debug\netcoreapp3.1\MoviesApi.Models.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.csprojAssemblyReference.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.AssemblyInfoInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.AssemblyInfo.cs
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.csproj.CopyComplete
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Mappers\obj\Debug\netcoreapp3.1\MoviesApi.Mappers.pdb

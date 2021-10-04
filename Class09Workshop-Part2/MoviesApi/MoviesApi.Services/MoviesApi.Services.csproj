@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoviesApi.DataAccess\MoviesApi.DataAccess.csproj" />
+    <ProjectReference Include="..\MoviesApi.Mappers\MoviesApi.Mappers.csproj" />
+    <ProjectReference Include="..\MoviesApi.Models\MoviesApi.Models.csproj" />
+    <ProjectReference Include="..\MoviesApiShared\MoviesApi.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,400 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Services\\MoviesApi.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\MoviesApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\MoviesApi.DataAccess.csproj",
+        "projectName": "MoviesApi.DataAccess",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\MoviesApi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj",
+        "projectName": "MoviesApi.Domain",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\MoviesApi.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\MoviesApi.Mappers.csproj",
+        "projectName": "MoviesApi.Mappers",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\MoviesApi.Mappers.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Domain\\MoviesApi.Domain.csproj"
+              },
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj",
+        "projectName": "MoviesApi.Models",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Services\\MoviesApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Services\\MoviesApi.Services.csproj",
+        "projectName": "MoviesApi.Services",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Services\\MoviesApi.Services.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\MoviesApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.DataAccess\\MoviesApi.DataAccess.csproj"
+              },
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\MoviesApi.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Mappers\\MoviesApi.Mappers.csproj"
+              },
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApi.Models\\MoviesApi.Models.csproj"
+              },
+              "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\MoviesApi.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\MoviesApi.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\MoviesApi.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\MoviesApi.Shared.csproj",
+        "projectName": "MoviesApi.Shared",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\MoviesApi.Shared.csproj",
+        "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class09Workshop-Part2\\MoviesApi\\MoviesApiShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

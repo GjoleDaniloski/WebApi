@@ -1,0 +1,12 @@
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\bin\Debug\netcoreapp3.1\MoviesApi.Domain.deps.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\bin\Debug\netcoreapp3.1\MoviesApi.Domain.runtimeconfig.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\bin\Debug\netcoreapp3.1\MoviesApi.Domain.runtimeconfig.dev.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\bin\Debug\netcoreapp3.1\MoviesApi.Domain.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\bin\Debug\netcoreapp3.1\MoviesApi.Domain.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.csprojAssemblyReference.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.AssemblyInfo.cs
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Domain\obj\Debug\netcoreapp3.1\MoviesApi.Domain.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop.V1\\Class05Workshop\\Class05Workshop.csproj": {}
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop\\Class05Workshop\\Class05Workshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop.V1\\Class05Workshop\\Class05Workshop.csproj": {
+    "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop\\Class05Workshop\\Class05Workshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop.V1\\Class05Workshop\\Class05Workshop.csproj",
+        "projectUniqueName": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop\\Class05Workshop\\Class05Workshop.csproj",
         "projectName": "Class05Workshop",
-        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop.V1\\Class05Workshop\\Class05Workshop.csproj",
+        "projectPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop\\Class05Workshop\\Class05Workshop.csproj",
         "packagesPath": "C:\\Users\\Gjole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop.V1\\Class05Workshop\\obj\\",
+        "outputPath": "C:\\Users\\Gjole\\Desktop\\Seavus_Academy\\WebApiGithubRepo new\\WebApi\\Class05Workshop\\Class05Workshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gjole\\AppData\\Roaming\\NuGet\\NuGet.Config",
