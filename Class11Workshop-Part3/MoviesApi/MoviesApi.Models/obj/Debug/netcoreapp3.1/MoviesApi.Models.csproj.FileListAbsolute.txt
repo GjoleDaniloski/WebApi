@@ -1,0 +1,12 @@
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\bin\Debug\netcoreapp3.1\MoviesApi.Models.deps.json
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\bin\Debug\netcoreapp3.1\MoviesApi.Models.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\bin\Debug\netcoreapp3.1\MoviesApi.Models.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.csprojAssemblyReference.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.AssemblyInfoInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.AssemblyInfo.cs
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\bin\Debug\netcoreapp3.1\MoviesApi.Domain.dll
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\bin\Debug\netcoreapp3.1\MoviesApi.Domain.pdb
+C:\Users\Gjole\Desktop\Seavus_Academy\WebApiGithubRepo new\WebApi\Class09Workshop-Part2\MoviesApi\MoviesApi.Models\obj\Debug\netcoreapp3.1\MoviesApi.Models.csproj.CopyComplete
